@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f948c6-5e4d-40bd-92aa-ca87f69ea900" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/src/main/java/com/dubbo/demo/model/entity/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/dubbo/demo/model/entity/TestModel.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1565674946977" duration="1751000" />
       <workItem from="1573368717280" duration="59000" />
       <workItem from="1579225253539" duration="12000" />
-      <workItem from="1579225906041" duration="2877000" />
+      <workItem from="1579225906041" duration="3137000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1579226340433</created>
